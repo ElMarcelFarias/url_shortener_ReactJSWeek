@@ -14,7 +14,7 @@
 }
 
 .logo h1{
-  font-size: 60px;
+  font-size: 40px;
   color: #FFF;
 }
 
@@ -31,6 +31,7 @@
   flex-direction: column;
   align-items: center;
   animation: slideY 2s;
+  
 }
 
 /* Animation rising input*/
