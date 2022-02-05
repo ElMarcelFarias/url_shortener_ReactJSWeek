@@ -1,14 +1,22 @@
 # Getting Started with Create React App || project url shortener teste teste
 
-Começamos a 2° aula da Semana React JS 🚀🖤
+Começamos a Semana React JS 🚀🖤
 
-Desenvolvendo um projeto de um website encurtador de link, nessa primeira etapa estilizamos completamente a interface do nosso website, 100% responsivo com a utilização de MediaQuery, animation, e utilizamos react-icons/fi e react-router-dom! com auxilio das tecnologias HTML5, CSS3, JavaScript e ReactJS. Muito obrigado! 😊
+Desenvolvendo um projeto de um website encurtador de link, nessa primeira etapa estilizamos completamente a interface do nosso website, 100% responsivo com a utilização de MediaQuery, animation, e utilizamos react-icons/fi e react-router-dom! Adicionamos toda a parte lógica do projeto, e utilizamos a API do bitly para encurtar os links, com auxilio das tecnologias HTML5, CSS3, JavaScript e ReactJS. Muito obrigado! 😊
+
 
 (index)
 ![shortener1](https://user-images.githubusercontent.com/92833379/152279445-110d8c15-9c56-4fbf-9d92-8ae3a126149f.png)
 
+
+(modal)
+![modal-react](https://user-images.githubusercontent.com/92833379/152662913-3bbd6746-d4f5-4a60-9d62-ff7c4217d524.png)
+
+
+
 (Meus links)
 ![shortener2](https://user-images.githubusercontent.com/92833379/152279453-28a7cc8d-c7f8-41aa-a547-c65258a57641.png)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
