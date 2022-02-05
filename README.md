@@ -1,4 +1,4 @@
-# Getting Started with Create React App || project url shortener 
+# Getting Started with Create React App || project url shortener teste teste
 
 Começamos a 2° aula da Semana React JS 🚀🖤
 
