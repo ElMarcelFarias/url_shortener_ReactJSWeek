@@ -4,6 +4,7 @@ Começamos a Semana React JS 🚀🖤
 
 Desenvolvendo um projeto de um website encurtador de link, nessa primeira etapa estilizamos completamente a interface do nosso website, 100% responsivo com a utilização de MediaQuery, animation, e utilizamos react-icons/fi e react-router-dom! Adicionamos toda a parte lógica do projeto, e utilizamos a API do bitly para encurtar os links, com auxilio das tecnologias HTML5, CSS3, JavaScript e ReactJS. Muito obrigado! 😊
 
+Caso aconteça erros ao inciar coloque (npm install react-scripts --save dentro da parta do projeto)
 
 (index)
 ![shortener1](https://user-images.githubusercontent.com/92833379/152279445-110d8c15-9c56-4fbf-9d92-8ae3a126149f.png)
